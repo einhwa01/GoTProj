@@ -1,0 +1,4 @@
+GoTProj
+=======
+
+Just an idea
