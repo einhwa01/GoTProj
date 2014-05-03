@@ -1,0 +1,16 @@
+package got.sim.holdings;
+
+public enum HoldingsNames {
+	KARHOLD,
+	FIREFELL,
+	SUMMERHALL,
+	CASTAMERE,
+	CLARENHOLD,
+	SPARENHAL,
+	TINTOWN,
+	HIGHGARDEN,
+	KINGSPORT,
+	TORNFORT,
+	HARTENFJORD;
+	
+}

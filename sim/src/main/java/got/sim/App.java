@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        CreateWorld world = new CreateWorld(3);
+        world.outputWorld();        
     }
 }

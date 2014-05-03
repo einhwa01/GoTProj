@@ -1,0 +1,18 @@
+package got.sim.people;
+
+public enum HouseNames {
+	RAEKART,
+	LANNISTER,
+	STARK,
+	MORMONT,
+	WESTICE,
+	BREISET,
+	LETORT,
+	MARTELL,
+	ACKER,
+	FORRESTER,
+	BRASK,
+	STITELl,
+	EINHUSTER,
+	DONDARRION;
+}

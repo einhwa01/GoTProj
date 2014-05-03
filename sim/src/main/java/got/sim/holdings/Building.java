@@ -1,5 +1,9 @@
 package got.sim.holdings;
 
-public class Building {
+import java.util.List;
 
+public class Building {
+	private String name;
+	private List<Commodity> commodities;
+	
 }
